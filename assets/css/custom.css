@@ -1,0 +1,9 @@
+.centered .about h1 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.centered .about h2 {
+    font-size: 2rem;
+    font-weight: 400;
+}
